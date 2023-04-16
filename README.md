@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Oussama Belfarhi, a self-taught web developer, specialized in front end ( Html, Css, Javascript and ReactJs)
+- 👋 Hi, I’m Oussama Belfarhi, a self-taught web developer, specialized in Backend development (PHP/Symfony)
